@@ -11,9 +11,9 @@ which includes the kinetic energy through the tunneling of the
 bosons between two neighbouring wells; the potential energy which is
 different from zero if in the same well where there are at least two bosons,
 and a local and random potential energy which describes the inhomogeneities
-of the trapping potential due to possible experimental errors. A more detailed explanation can be found at Eq. 2.1 of (insert document)
+of the trapping potential due to possible experimental errors. A more detailed explanation can be found at Eq. 2.1 of (insert document). The following figure serves as a visual representation of the terms in the Bose-Hubbard Hamiltonian.
 
-
+![Schematics for eight bosons in an inhomogeneous optical lattice](https://github.com/Marioherreroglez/Bosons-in-Optical-Lattices/blob/main/Figures/BH_model.png?raw=true)
 
 In this work, we have supposed that the number of minimums
 in the optical lattice is equal to the number of bosons. The statistical
