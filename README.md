@@ -1,4 +1,4 @@
-# Bosons in Optical Lattices
+# Cold Atoms Systems: Bosons
 In this project a unidimensional system formed by ultracold bosonic
 atoms trapped in the potentials wells of an homogeneous and inhomogeneous
 optical lattice has been studied. It is supposed that atoms
